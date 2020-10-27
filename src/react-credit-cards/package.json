@@ -129,7 +129,7 @@
     "payment"
   ],
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "es/index.js",
   "module": "es/index.js",
   "name": "react-credit-cards",
   "peerDependencies": {
@@ -162,7 +162,7 @@
       "limit": "6 kB"
     },
     {
-      "path": "./lib/index.js",
+      "path": "./es/index.js",
       "limit": "6 kB"
     }
   ],
